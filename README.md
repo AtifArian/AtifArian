@@ -1,6 +1,7 @@
-# 💫 About Me:
-Hi 👋, I'm Atif Islam Arian<br>A struggling student
+<h1 align="center">Hi 👋, I'm Atif Islam Arian</h1>
+<h3 align="center">A struggling student</h3>
 
+- 👨‍💻 All of my projects are available at [https://github.com/AtifArian/](https://github.com/AtifArian/)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arian.r15) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_at1f_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/at1f) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/AT1F_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/at1f007) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atif.arian007@gmail.com) 
