@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Atif Islam Arian</h1>
 <h3 align="center">A struggling student</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/AtifArian/](https://github.com/AtifArian/)
+- 👨‍💻 All of my projects are available [Here](https://github.com/AtifArian?tab=repositories)
+
 ## 👥 Collaborations
 
 - [Load Prediction Model](https://github.com/DigontaDas/Loan-prediction-model)
